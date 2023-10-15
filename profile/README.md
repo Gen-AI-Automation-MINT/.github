@@ -1,3 +1,10 @@
+## Project Timeline
+
+## [Link 🔗](https://github.com/orgs/Gen-AI-Automation-MINT/projects/1)
+
+
+---
+Key points from the meeting (29th September)
 # Agenda
 ## The main topics discussed were:
 * Current workflow and process steps
